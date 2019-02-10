@@ -3,7 +3,7 @@ layout: post
 title: "ไปต่อไป เป็นกำลังใจให้ตัวเอง"
 date: 2019-02-10 10:06:09
 image: '/assets/img/'
-description: 'Don't give up trying to do what you really want to do ~ Ella Fitgerald'
+description: "Don't give up trying to do what you really want to do ~ Ella Fitgerald"
 tags:
 - jekyll
 - web

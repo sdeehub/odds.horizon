@@ -1,7 +1,7 @@
 # Site settings
 title: เรื่องที่เราเรียนรู้ในแต่ละวัน
 description: เรื่องที่เราเรียนรู้ในแต่ละวัน
-baseurl: "/i.learn" # the subpath of your site, e.g. /blog
+baseurl: "/odds.horizon" # the subpath of your site, e.g. /blog
 url: "https://sdeehub.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings

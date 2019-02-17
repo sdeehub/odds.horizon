@@ -5,9 +5,9 @@ baseurl: "/odds.horizon" # the subpath of your site, e.g. /blog
 url: "https://sdeehub.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lorem Ipsum
+username: Odd's Horizon
 user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
+user_title: ความคิดไปถึง ตรงที่ปลายฟ้า หรืออาจไกลกว่า ที่ว่าของจักรวาล
 email: anon@anon.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum

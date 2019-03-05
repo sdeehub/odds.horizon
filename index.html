@@ -8,22 +8,22 @@ layout: default
                 <a class="datetime" href="{{ post.url | prepend: site.baseurl }}">
                     <meta itemprop="datePublished" content="{{post.date}}">
                     <time datetime="{{ post.date | date_to_xmlschema }}">
-                        <span class="day">
+                        <span class="day" style="font-family:Prompt;">
                             {{ post.date | date: "%d" }}
                         </span>
-                        <span class="month-year">
+                        <span class="month-year" style="font-family:Prompt;">
                             {{ post.date | date: "%B %Y" }}
                         </span>
                     </time>
                 </a>
-                <div class="content">
+                <div class="content" style="font-family:Prompt;">
                     <a href="{{ post.url | prepend: site.baseurl }}"><h2 class="post-title" itemprop="name">{{ post.title }}</h2></a>
-                    <p class="description">
+                    <p class="description" style="font-family:Athiti;">
                         {{ post.content | strip_html | truncatewords:40 }}
                         <a href="{{ post.url | prepend: site.baseurl }}" class="link">Read more about {{post.title}}</a>
                     </p>
 
-                    <div class="tags">
+                    <div class="tags" style="font-family:Prompt;">
                         {% for tag in post.tags %}
                             <a href="{{ site.baseurl }}/tags/#{{tag | slugify }}">{{ tag }}</a>
                         {% endfor %}

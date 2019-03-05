@@ -8,11 +8,11 @@ url: "https://sdeehub.github.io" # the base hostname & protocol for your site e.
 username: Odd's Horizon
 user_description: Anon Developer at Lorem Ipsum Dolor
 user_title: ความคิดไปถึง ตรงที่ปลายฟ้า หรืออาจไกลกว่า ที่ว่าของจักรวาล
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+email: odd.daboss@gmail.com
+twitter_username: odd_daboss
+github_username:  sdeehub/odds.horizon
+gplus_username:
+disqus_username: 
 
 # Build settings
 markdown: kramdown

@@ -6,13 +6,13 @@ url: "https://sdeehub.github.io" # the base hostname & protocol for your site e.
 
 # User settings
 username: Odd's Horizon
-user_description: Anon Developer at Lorem Ipsum Dolor
+user_description: จากมือถือ กับ ความคิดแบบ Inner บน Blogger - เกิดเคลื่อนไหว กลับ ลายกลายพลัน เป็น Odd's Horizon ด้วย Jekyll แทน
 user_title: ความคิดไปถึง ตรงที่ปลายฟ้า หรืออาจไกลกว่า ที่ว่าของจักรวาล
 email: odd.daboss@gmail.com
 twitter_username: odd_daboss
 github_username:  sdeehub/odds.horizon
 gplus_username:
-disqus_username: 
+disqus_username:
 
 # Build settings
 markdown: kramdown

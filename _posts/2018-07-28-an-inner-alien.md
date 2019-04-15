@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Inner Alien"
-date: 2018-07-28 09:12:00 +0700
+date: 2018-07-27 09:12:00 +0700
 image: '/assets/img/'
 description: 'มนุษย์ธรรมดาที่ข้างนอก กับ มนุษย์ต่างดาวจากข้างใน'
 tags:

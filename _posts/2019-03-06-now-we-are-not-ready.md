@@ -3,10 +3,9 @@ layout: post
 title: "รู้สึกว่ายัง"
 date: 2019-03-06 18:29:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'บางทีก็ยัง - ไม่ใช่สิ น่าจะถูกกว่าเพราะว่ายังไงๆ ยังไง ... ก็ยัง'
 tags:
-- jekyll
-- web
+- 2019-03
 categories:
 - Jekyll is awesome
 twitter_text: 'Put your twitter description here.'

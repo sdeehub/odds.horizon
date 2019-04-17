@@ -3,10 +3,9 @@ layout: post
 title: "เราให้ได้ทันที"
 date: 2019-03-05 09:18:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'กลับมาแก้ไขอะไรบางอย่าง กลับมาตั้งใจเริ่มใหม่กันบ้าง กลับมาถอยกลับมาเพื่อจะกลับตัวกลับใจ'
 tags:
-- jekyll
-- web
+- 2019-03
 categories:
 - Jekyll is awesome
 twitter_text: 'Put your twitter description here.'

@@ -3,10 +3,9 @@ layout: post
 title: "ทำไม หรือว่า เพราะแบบนี้"
 date: 2019-03-14 21:00:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'เขียนติดกันแบบถี่ๆ แบบนี้คือการเขียนเพื่อระบายอะไรแน่ๆ เลย - ระบายอะไร? ถ้ามีสีก็คือระบายสี ถ้ามีคำก็คือระบายคำ ถ้ามีความทรงจำก็คือระบายทั้งหมดนั่นล่ะ'
 tags:
-- jekyll
-- web
+- 2019-03
 categories:
 - Jekyll is awesome
 twitter_text: 'Put your twitter description here.'

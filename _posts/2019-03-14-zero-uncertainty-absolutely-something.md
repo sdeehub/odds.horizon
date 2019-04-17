@@ -3,10 +3,9 @@ layout: post
 title: "ไม่มีอะไร"
 date: 2019-03-14 21:10:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'ก็ตามที่ว่า เพราะอะไรๆ จริงๆ แล้วก็คือไม่มีอะไร - อะไรๆ ก็ไม่มีอะไรไง ลองอ่านดูมั๊ย หรือว่าจะเอายังไง?'
 tags:
-- jekyll
-- web
+- 2019-03
 categories:
 - Jekyll is awesome
 twitter_text: 'Put your twitter description here.'

@@ -3,10 +3,9 @@ layout: post
 title: "ความไม่แน่นอนที่ส่งผลอย่างแน่นอน"
 date: 2019-03-14 18:30:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'ไม่ว่ายังไง ทุกอย่างก็เปลี่ยนแปลงไป - ไม่ว่ายังไง ทุกอย่างก็ส่งผลอะไรบางอย่าง'
 tags:
-- jekyll
-- web
+- 2019-03
 categories:
 - Jekyll is awesome
 twitter_text: 'Put your twitter description here.'

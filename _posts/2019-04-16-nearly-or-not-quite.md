@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "ใกล้เข้าไปทุกที"
-date: 2019-03-14 18:02:03 +0700
+date: 2019-04-16 18:02:03 +0700
 image: '/assets/img/'
 description: ''
 tags:
-- jekyll
-- web
+- 2019-04
 categories:
 - Jekyll is awesome
 twitter_text: 'Put your twitter description here.'

@@ -5,8 +5,7 @@ date: 2018-08-28 12:57:00 +0700
 image: '/assets/img/'
 description: ''
 tags:
-- jekyll
-- web
+- 2018-08
 categories:
 - Jekyll is awesome
 twitter_text: 'Put your twitter description here.'

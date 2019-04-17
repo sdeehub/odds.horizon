@@ -5,8 +5,7 @@ date: 2018-08-03 08:01:00 +0700
 image: '/assets/img/'
 description: 'ข้างนอกร้อน ข้างในเย็น - ไม่เป็นไร ไปต่อได้ (แต่ถ้าไม่) รอก่อนได้ ใช่! รอกันก่อน'
 tags:
-- jekyll
-- web
+- 2018-08
 categories:
 - Jekyll is awesome
 twitter_text: 'Put your twitter description here.'

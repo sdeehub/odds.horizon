@@ -5,8 +5,7 @@ date: 2018-07-26 09:39:00 +0700
 image: '/assets/img/'
 description: '09:39 - เวลาที่เริ่มใหม่ หรือถ้าไม่ใช่ก็ ... ก็เอายังไงดี?'
 tags:
-- jekyll
-- web
+- 2018-07
 categories:
 - Jekyll is awesome
 twitter_text: 'Put your twitter description here.'

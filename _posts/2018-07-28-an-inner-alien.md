@@ -5,8 +5,7 @@ date: 2018-07-27 09:12:00 +0700
 image: '/assets/img/'
 description: 'มนุษย์ธรรมดาที่ข้างนอก กับ มนุษย์ต่างดาวจากข้างใน'
 tags:
-- jekyll
-- web
+- 2018-07
 categories:
 - Jekyll is awesome
 twitter_text: 'Put your twitter description here.'

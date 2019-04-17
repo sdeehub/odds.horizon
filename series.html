@@ -5,13 +5,12 @@ permalink: /series/index.html
 image: '/assets/img/series.png'
 description: "จะมีสักกี่ครั้งกันที่ความเป็นไปจะยืดยาว ต่อเนื่อง สวยงาม เป็นวรรค เป็นตอน - เหมือนการนอนแล้วตื่นขึ้นมาใหม่ ... ในอีกวัน"
 ---
-{% assign tags = (site.categories | sort) %}
+{% assign tags = (site.categories | sort:0) %}
 {% for tag in tags %}
   <span class="tag-title" id="{{ tag[0] | slugify }}">{{ tag[0] | capitalize }}</span>
   <ul class="post-list">
     {% assign pages_list = tag[1] %}
-    {% assign posts = (pages_list | sort:0) %}
-    {% for post in posts %}
+    {% for post in pages_list reversed %}
       {% if post.title != null %}
       {% if group == null or group == post.group %}
       <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></a></li>

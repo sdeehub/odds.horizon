@@ -7,7 +7,7 @@ description: ''
 tags:
 - 2018-09
 categories:
-- ไปๆ มาๆ และ ความเปลี่ยนแปลง
+- W-hy? ไปๆ มาๆ และ ความเปลี่ยนแปลง
 twitter_text: 'Put your twitter description here.'
 ---
 เพราะคิดว่าความฝันมักอยู่ตรงนั้น

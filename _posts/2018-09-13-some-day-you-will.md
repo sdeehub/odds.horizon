@@ -7,7 +7,7 @@ description: ''
 tags:
 - 2018-09
 categories:
-- Jekyll is awesome
+- ไปๆ มาๆ และ ความเปลี่ยนแปลง
 twitter_text: 'Put your twitter description here.'
 ---
 บางวันก็ดี บางวันก็ดีมาก บางวันก็ดีปานกลาง บางวันก็ดีธรรมดา ธรรมดา วันเวลา เวลาและวัน ผ่านเราไป

@@ -7,7 +7,7 @@ description: ''
 tags:
 - 2018-09
 categories:
-- Jekyll is awesome
+- เพื่อนและกำลังใจ
 twitter_text: 'Put your twitter description here.'
 ---
 ตั้งใจไว้แล้วว่าจะมาพบกันอย่างสม่ำเสมอ ไม่ให้มีเผลอ ให้มีแต่เพิ่ม ทีละเล็ก ทีละน้อย ค่อยๆ เติม ค่อยๆ เติม ค่อยๆ เพิ่ม ค่อยๆ เริ่ม มาจากความตั้งใจ

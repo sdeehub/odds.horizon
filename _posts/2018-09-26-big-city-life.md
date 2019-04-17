@@ -7,7 +7,7 @@ description: ''
 tags:
 - 2018-09
 categories:
-- Jekyll is awesome
+- เพื่อนและกำลังใจ
 twitter_text: 'Put your twitter description here.'
 ---
 ในวันนี้ เหนื่อย อ่อน ล้า ไปกับเมืองใหญ่ รอคอยอย่างใจจดจ่อ เมื่อไหร่จะสมใจกับการรอคอย คอยให้เมืองใหญ่กลายเป็นเมืองสวรรค์

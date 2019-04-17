@@ -7,7 +7,7 @@ description: "จะมีสักกี่ครั้งกันที่ค
 ---
 {% assign tags = (site.categories | sort:0) %}
 {% for tag in tags %}
-  <span class="tag-title" id="{{ tag[0] | slugify }}">{{ tag[0] | capitalize }}</span>
+  <span class="tag-title" id="{{ tag[0] | slugify }}" style="font-family:Prompt;color:Gray">{{ tag[0] | capitalize }}</span>
   <ul class="post-list">
     {% assign pages_list = tag[1] %}
     {% for post in pages_list reversed %}

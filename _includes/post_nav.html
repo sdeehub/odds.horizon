@@ -1,0 +1,14 @@
+<div class="pagination clearfix">
+  {% if page.previous.url %}
+    <a href="{{ page.previous.url | relative_url }}" class="previous"><i class="fa fa-angle-left" aria-hidden="true"></i> {{ page.previous.date | date: '%Y.%m.%d' }}</a>
+  {% else %}
+    <a href="{{ site.baseurl }}" class="previous"><i class="fa fa-angle-left" aria-hidden="true"></i>
+    Odd's Horizon
+  </a>
+  {% endif %}
+  {% if page.next.url %}
+    <a href="{{ page.next.url | relative_url }}" class="next">{{ page.next.date | date: '%Y.%m.%d' }} <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+  {% else %}
+    <a href="{{ site.baseurl }}" class="next">Odd's Horizon <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+  {% endif %}
+</div>

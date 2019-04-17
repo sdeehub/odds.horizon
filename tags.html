@@ -20,7 +20,7 @@ description: "อาจจะเพราะแบบนี้ พวกเร�
 </div>
 
 {% for tag in site.tags  %}
-    <span class="tag-title" id="{{ tag[0] | slugify }}" style="font-family:Prompt;color:#333">{{ tag[0] }}</span>
+    <span class="tag-title" id="{{ tag[0] | slugify }}" style="font-family:Prompt;color:Gray">{{ tag[0] }}</span>
     <ul class="post-list">
         {% assign pages_list = tag[1] %}
         {% for post in pages_list reversed %}

@@ -7,7 +7,7 @@ description: "Well, I don't know or maybe ... actually I do know."
 tags:
 - 2017-12
 categories:
-- เรื่องที่โผล่อยู่ใน storylog.co
+- บางเรื่องที่โผล่อยู่ใน storylog.co
 twitter_text: 'Put your twitter description here.'
 ---
 I know you probably thinking this is kind of weird. After all these years of saying: "Hi my name is Odd." And your response that would go like: "Hi, you Odd? I think you are totally fine. Actually I think you are kind of cute." Yeah right! And that smirky smile kind of response that would have changed me forever.

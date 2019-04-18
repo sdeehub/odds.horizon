@@ -3,7 +3,7 @@ layout: post
 title: "ขอบคุณในทุกๆ สิ่ง"
 date: 2018-08-08 15:30:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'ชีวิต ความเป็นไป อากาศสำหรับหายใจ และเรื่องมหัศจรรย์ใจทั้งมวล'
 tags:
 - 2018-08
 categories:

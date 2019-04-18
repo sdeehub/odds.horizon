@@ -3,7 +3,7 @@ layout: post
 title: "สมดุลใหม่"
 date: 2018-08-07 18:25:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'กลับมากอดกันอีกสักครั้ง เพื่อให้พวกเรายังอยู่ในสมดุล'
 tags:
 - 2018-08
 categories:

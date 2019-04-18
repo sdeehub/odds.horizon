@@ -3,7 +3,7 @@ layout: post
 title: "อสุภ"
 date: 2018-08-15 11:51:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'อ่านว่า อะสุบ / อะสุบพะ - แปลว่า ไม่งาม / ไม่สวย / ไม่ดี'
 tags:
 - 2018-08
 categories:

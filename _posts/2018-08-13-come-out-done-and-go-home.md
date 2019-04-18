@@ -3,7 +3,7 @@ layout: post
 title: "หาภาระกิจ ทำให้เสร็จ แล้วก็ตรงกลับบ้าน"
 date: 2018-08-13 09:29:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'ถึงจะเหงาหรือมาไกลแค่ไหน เมื่อเสร็จภาระกิจก็ต้องกลับ'
 tags:
 - 2018-08
 categories:

@@ -3,7 +3,7 @@ layout: post
 title: "ฝนตกที่บ้าน"
 date: 2018-08-12 12:53:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'ฝนมากะฟ้าร้อง บางคนนั่งมองฝน บางคนก็หลบฝน แต่บางคนเอาแต่ ... คิดถึง'
 tags:
 - 2018-08
 categories:

@@ -3,7 +3,7 @@ layout: post
 title: "เหนื่อยแล้ว พักซะก่อน"
 date: 2018-08-10 16:30:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'พักซะก่อนตอนที่ยังไม่เริ่มจะเหนื่อย ร่างกาย-จิตใจจะได้กลับมาสดใสได้ทันเวลา'
 tags:
 - 2018-08
 categories:

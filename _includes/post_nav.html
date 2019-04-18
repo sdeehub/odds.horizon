@@ -1,4 +1,4 @@
-<div class="pagination clearfix">
+<p>
   {% if page.previous.url %}
     <a href="{{ page.previous.url | relative_url }}" class="previous"><i class="fa fa-angle-left" aria-hidden="true"></i> {{ page.previous.date | date: '%Y.%m.%d' }}</a>
   {% else %}
@@ -11,4 +11,4 @@
   {% else %}
     <a href="{{ site.baseurl }}" class="next">Odd's Horizon <i class="fa fa-angle-right" aria-hidden="true"></i></a>
   {% endif %}
-</div>
+</p>

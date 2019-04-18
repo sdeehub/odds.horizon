@@ -3,7 +3,7 @@ layout: post
 title: "ความตั้งใจ"
 date: 2018-08-04 09:58:00 +0700
 image: '/assets/img/'
-description: ''
+description: "ก็อย่างที่ชื่อบอกนั่นล่ะว่า 'ความตั้งใจ'"
 tags:
 - 2018-08
 categories:

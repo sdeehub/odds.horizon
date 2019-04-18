@@ -3,7 +3,7 @@ layout: post
 title: "ขอบคุณจากใจจริง"
 date: 2018-08-20 11:44:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'ทุกสิ่ง ทุกอย่าง ทุกความเป็นไป มีไว้ให้เรารู้สึกในความขอบคุณ'
 tags:
 - 2018-08
 categories:

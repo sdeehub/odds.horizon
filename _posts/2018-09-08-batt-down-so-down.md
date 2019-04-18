@@ -3,7 +3,7 @@ layout: post
 title: "แบทใกล้หมด"
 date: 2018-09-08 21:10:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'รีบเลยเพราะแบทจะหมดแล้วนะ!'
 tags:
 - 2018-09
 categories:

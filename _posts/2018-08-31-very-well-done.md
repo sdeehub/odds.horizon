@@ -3,7 +3,7 @@ layout: post
 title: "ความประทับใจ"
 date: 2018-08-31 11:46:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'เมื่อเราได้ช่วยอย่างเต็มใจ เราก็จะได้รับความชื่นใจกลับไปเต็มๆ'
 tags:
 - 2018-08
 categories:

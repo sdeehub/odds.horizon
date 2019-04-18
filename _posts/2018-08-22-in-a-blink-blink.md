@@ -3,7 +3,7 @@ layout: post
 title: "เสี้ยววินาทีนั้น"
 date: 2018-08-22 12:37:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'เมื่อเราได้พบกันจริงๆ'
 tags:
 - 2018-08
 categories:

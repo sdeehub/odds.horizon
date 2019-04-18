@@ -3,7 +3,7 @@ layout: post
 title: "บางวัน"
 date: 2018-09-13 09:37:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'ไม่รู้สิก็นึกว่าแค่บางวัน หรือบางคนอาจจะทุกๆ วัน แบบนั้นก็ไม่รู้สิ'
 tags:
 - 2018-09
 categories:

@@ -3,7 +3,7 @@ layout: post
 title: "ก่อนนอน"
 date: 2018-09-06 21:43:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'หลับตาแล้ว แล้วก่อนจะหลับไป ก่อนจะตื่นหรือไม่ตื่นขึ้นมาใหม่ เตรียมตัวเอาไว้ตั้งแต่ตอนหลับตา'
 tags:
 - 2018-09
 categories:

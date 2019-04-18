@@ -3,7 +3,7 @@ layout: post
 title: "ความหวัง กับ ความตั้งใจ"
 date: 2018-09-09 21:54:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'คงแบบเดียวกันที่คุณลุงสุวิทย์ชอบพูดว่า - เอาน่า! เดินทุกวัน สักวันก็ต้องถึง'
 tags:
 - 2018-09
 categories:

@@ -3,7 +3,7 @@ layout: post
 title: "สิ่งเล็กๆ น้อยๆ"
 date: 2018-08-24 09:43:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'มาร้องเพลงกัน ฉันว่าแปลกดี ฟังสิร้องเลย'
 tags:
 - 2018-08
 categories:

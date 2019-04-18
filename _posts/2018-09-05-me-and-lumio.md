@@ -3,7 +3,7 @@ layout: post
 title: "เรา กับ lumio"
 date: 2018-09-05 23:32:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'จำไม่ได้แล้วว่าทำไม แต่ดีใจนะที่เราได้เจอกัน'
 tags:
 - 2018-09
 categories:

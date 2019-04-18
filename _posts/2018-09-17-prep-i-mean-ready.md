@@ -3,7 +3,7 @@ layout: post
 title: "เตรียมตัว"
 date: 2018-09-17 16:23:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'เอาให้พร้อมก่อนที่จะต้องจากกันไป'
 tags:
 - 2018-09
 categories:

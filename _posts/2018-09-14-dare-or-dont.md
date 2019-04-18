@@ -3,7 +3,7 @@ layout: post
 title: "กล้าๆ กลัวๆ"
 date: 2018-09-14 10:25:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'จะกล้า หรือ จะกลัวแต่ยังไงเราก็ต้อง ...'
 tags:
 - 2018-09
 categories:

@@ -3,7 +3,7 @@ layout: post
 title: "หายไป"
 date: 2018-08-28 12:57:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'ใครๆ ก็รู้ว่าสสารไม่มีวันสูญหาย ... เพียงแค่'
 tags:
 - 2018-08
 categories:

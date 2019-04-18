@@ -3,7 +3,7 @@ layout: post
 title: "Ma-Chi-Ma"
 date: 2019-02-27 08:07:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'เอ๊ะ!? ยังไง ... เอ๊ะ อะไรน่ะ!?'
 tags:
 - 2019-02
 categories:

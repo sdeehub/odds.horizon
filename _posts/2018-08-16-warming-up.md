@@ -3,7 +3,7 @@ layout: post
 title: "อุ่นเครื่อง"
 date: 2018-08-16 10:50:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'ตื่นเช้าขึ้นมาพร้อมด้วยความรู้สึกว่าขอบคุณ'
 tags:
 - 2018-08
 categories:

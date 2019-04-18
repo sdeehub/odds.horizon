@@ -1,14 +1,12 @@
 <div class="tags">
   {% if page.previous.url %}
-    <a href="{{ page.previous.url | relative_url }}" class="previous"><i class="fa fa-angle-left" aria-hidden="true"></i> {{ page.previous.date | date: '%Y.%m.%d' }}</a>
+    <a href="{{ page.previous.url | relative_url }}">PREV</a>
   {% else %}
-    <a href="{{ site.baseurl }}" class="previous"><i class="fa fa-angle-left" aria-hidden="true"></i>
-    Odd's Horizon
-  </a>
+    <a href="{{ site.baseurl }}">HOME</a>
   {% endif %}
   {% if page.next.url %}
-    <a href="{{ page.next.url | relative_url }}" class="next">{{ page.next.date | date: '%Y.%m.%d' }} <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+    <a href="{{ page.next.url | relative_url }}">NEXT</a>
   {% else %}
-    <a href="{{ site.baseurl }}" class="next">Odd's Horizon <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+    <a href="{{ site.baseurl }}">HOME</a>
   {% endif %}
 </div>

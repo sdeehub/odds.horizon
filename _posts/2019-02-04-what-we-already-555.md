@@ -3,7 +3,7 @@ layout: post
 title: "เราได้เรียนรู้อะไร?"
 date: 2019-02-04 22:16:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'รอยบาดแผล คราบน้ำตา การสูญเสีย หมดศรัทธา -หรือว่า- กำลังใจ'
 tags:
 - 2019-02
 categories:

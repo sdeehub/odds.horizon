@@ -3,7 +3,7 @@ layout: post
 title: "ตอนนี้อยู่ตรงไหน"
 date: 2019-02-19 20:48:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'มาถึงซะทีนะแล้วจากนี้ล่ะ พวกเราจะเอายังไงดี'
 tags:
 - 2019-02
 categories:

@@ -3,7 +3,7 @@ layout: post
 title: "จักรวาลที่เปลี่ยนไป"
 date: 2018-11-05 15:24:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'เมื่อจินตนาการว่าเราได้รับรู้ทุกอย่างในจักรวาลนี้เพียงพอแล้วจริงๆ'
 tags:
 - 2018-11
 categories:

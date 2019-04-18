@@ -3,7 +3,7 @@ layout: post
 title: "หลุมใหญ่"
 date: 2018-10-29 11:59:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'สะดุด ล้ม เลิก หาย ตาย ... ยังไงก็ไม่จบสิ้น - นั่นสิ! เวรกรรมแล้วล่ะพวกเรา'
 tags:
 - 2018-10
 categories:

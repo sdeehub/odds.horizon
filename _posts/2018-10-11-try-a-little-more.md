@@ -3,7 +3,7 @@ layout: post
 title: "พยายาม"
 date: 2018-10-11 22:26:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'ความพยายามอยู่ที่ไหน ความสำเร็จอยู่ที่นั่น - Period!'
 tags:
 - 2018-10
 categories:

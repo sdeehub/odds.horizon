@@ -3,7 +3,7 @@ layout: post
 title: "Odd's Horizon"
 date: 2018-09-19 11:13:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'หน่อยนะ ... ก็อีกแค่เดือนเดียว - ดูวันที่สิ! จริงๆ'
 tags:
 - 2018-09
 categories:
@@ -22,9 +22,7 @@ twitter_text: 'Put your twitter description here.'
 
 แต่ก็ยังไม่ใช่ความฝันที่ตามหา
 
-
-นานแล้ว นาน แล้วนานและอ่อนล้า
-
+> นานแล้ว -นาน- แล้วนานและอ่อนล้า
 
 ถึงวันหนึ่งเลยต้องกลับบ้าน
 
@@ -32,9 +30,7 @@ twitter_text: 'Put your twitter description here.'
 
 กลับไปนั่งหลับตา
 
-
-คงหยุด!
-
+> คงหยุด!
 
 เพราะหมดแล้วแรงที่จะออกตามหา
 

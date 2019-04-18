@@ -3,7 +3,7 @@ layout: post
 title: "ทำ-ทำไม?"
 date: 2018-10-24 12:44:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'ถามเพื่อทบทวนตัวเอง ไม่ใช่ถามเพื่อกวนบาทาใคร'
 tags:
 - 2018-10
 categories:

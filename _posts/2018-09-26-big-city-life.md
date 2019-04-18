@@ -3,7 +3,7 @@ layout: post
 title: "กับเมืองใหญ่"
 date: 2018-09-26 22:52:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'ที่นี่มีใครเหนื่อยกันบ้างมั๊ย? ได้โปรดยกมือขึ้น'
 tags:
 - 2018-09
 categories:

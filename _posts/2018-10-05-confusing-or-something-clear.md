@@ -3,7 +3,7 @@ layout: post
 title: "สับสน วกวน"
 date: 2018-10-05 20:31:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'อยู่ตรงไหนของการเดินทาง? ครึ่งๆ-กลางๆ หรือว่า ข้างๆ-คูๆ'
 tags:
 - 2018-10
 categories:

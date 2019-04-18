@@ -3,7 +3,7 @@ layout: post
 title: "เช้าวันนี้"
 date: 2018-10-02 07:49:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'เพราะเช้านี้ก็คือโอกาสของการเริ่มต้นใหม่แห่งชีวิตอีกครั้ง อย่างไม่รู้จบ'
 tags:
 - 2018-10
 categories:

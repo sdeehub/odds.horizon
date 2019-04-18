@@ -3,7 +3,7 @@ layout: post
 title: "เต็มความรู้สึก"
 date: 2018-09-20 09:18:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'จัดมาเลย หรือแบบที่ชอบเรียกกันว่า -จัดมาเลยเต็มๆ-'
 tags:
 - 2018-09
 categories:

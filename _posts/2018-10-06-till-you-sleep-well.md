@@ -3,7 +3,7 @@ layout: post
 title: "ก่อนนอน"
 date: 2018-10-06 21:18:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'หลับตา-ได้ทบทวนกับความตั้งใจ / ลืมตา-พร้อมเริ่มใหม่เพื่อได้ปล่อยวาง'
 tags:
 - 2018-10
 categories:

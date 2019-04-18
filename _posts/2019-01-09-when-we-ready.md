@@ -3,7 +3,7 @@ layout: post
 title: "เมื่อไหร่?"
 date: 2019-01-09 18:39:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'บางทีการมาถึงก็คือการมาถึง ก็คือได้มาถึงแล้ว ก็คือแค่นั้นจริงๆ'
 tags:
 - 2019-01
 categories:

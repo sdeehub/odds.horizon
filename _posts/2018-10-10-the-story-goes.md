@@ -3,7 +3,7 @@ layout: post
 title: "ความเป็นไป"
 date: 2018-10-10 10:53:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'เพราะความเป็นไปก็ยิ่งใกล้ความเป็นจริงเข้าไปทุกที'
 tags:
 - 2018-10
 categories:

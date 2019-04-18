@@ -3,7 +3,7 @@ layout: post
 title: "สิ่งที่เราเห็น"
 date: 2018-10-26 15:12:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'เห็นหรือไม่เห็น? เป็นหรือไม่เป็น? แต่ว่าก็ว่างเปล่าเหมือนๆ กัน'
 tags:
 - 2018-10
 categories:

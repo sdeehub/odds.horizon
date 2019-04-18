@@ -3,7 +3,7 @@ layout: post
 title: "เมื่อตามกันไม่ทัน"
 date: 2018-09-19 08:22:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'เพราะตามติดก็เลยกลายเป็นยืดติด และเพราะติดก็เลยอาจจะแน่นไปแบบนั้น แต่ถ้า ... หลุด?'
 tags:
 - 2018-09
 categories:

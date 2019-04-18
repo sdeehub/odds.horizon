@@ -3,7 +3,7 @@ layout: post
 title: "เมื่อรวมทุกสิ่งเข้าด้วยกัน"
 date: 2018-11-10 21:34:00 +0700
 image: '/assets/img/'
-description: ''
+description: '-ว่างเปล่า- ก็จะเท่ากับ -สมบูรณ์-'
 tags:
 - 2018-11
 categories:

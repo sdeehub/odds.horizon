@@ -3,7 +3,7 @@ layout: post
 title: "ผีก็คือผี"
 date: 2019-01-08 07:31:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'อ้าวจริงๆ นะ ก็จริงมั๊ยล่ะ? ก็ ผีก็คือผี'
 tags:
 - 2019-01
 categories:

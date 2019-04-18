@@ -3,7 +3,7 @@ layout: post
 title: "พบกันสม่ำเสมอ"
 date: 2018-09-21 11:04:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'คำว่า -เยอะ- ก็มีที่มาจากการสะสม -มาทีละน้อยๆ- นั่นเอง'
 tags:
 - 2018-09
 categories:

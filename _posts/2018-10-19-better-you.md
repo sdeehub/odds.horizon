@@ -3,7 +3,7 @@ layout: post
 title: "จะดีแค่ไหน?"
 date: 2018-10-19 12:10:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'จะดีมากมั๊ย? - เมื่อชีวิตจะเต็มไปด้วยความรู้สึกขอบคุณ'
 tags:
 - 2018-10
 categories:

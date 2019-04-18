@@ -3,7 +3,7 @@ layout: post
 title: "หายไป"
 date: 2018-12-03 20:06:00 +0700
 image: '/assets/img/'
-description: ''
+description: '-หายไป- ก็อยากจะให้เท่ากับว่าเรานั้น -หายกัน-'
 tags:
 - 2018-12
 categories:

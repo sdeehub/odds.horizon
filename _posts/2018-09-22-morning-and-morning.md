@@ -3,7 +3,7 @@ layout: post
 title: "ในทุกๆ เช้า"
 date: 2018-09-22 13:03:00 +0700
 image: '/assets/img/'
-description: ''
+description: 'เมื่อได้เวลาตี 4 ของทุกๆ วัน'
 tags:
 - 2018-09
 categories:

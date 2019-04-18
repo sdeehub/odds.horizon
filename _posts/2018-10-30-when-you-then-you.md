@@ -3,7 +3,7 @@ layout: post
 title: "น่าลำบาก แต่เมื่อเราเข้าใจ"
 date: 2018-10-30 17:20:00 +0700
 image: '/assets/img'
-description: ''
+description: 'ทฤษฎีกระจกก็ว่าไว้แบบนี้?'
 tags:
 - 2018-10
 categories:

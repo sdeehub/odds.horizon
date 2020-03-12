@@ -11,6 +11,7 @@ categories:
 twitter_text: 'Put your twitter description here.'
 ---
 ![614-1](https://res.cloudinary.com/sdees-reallife/image/upload/c_fit,h_1000,w_2000/v1584025658/614-01.png)
+วรรณี ทวีทรัพย์ไพบูลย์ (ณี) • อรศิริ ไวยรัชพานิช (ออน)
 
 ![614-2](https://res.cloudinary.com/sdees-reallife/image/upload/c_fit,h_1000,w_2000/v1584025706/614-02.png)
 

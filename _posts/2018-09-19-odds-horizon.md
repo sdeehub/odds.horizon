@@ -3,11 +3,11 @@ layout: post
 title: "Odd's Horizon"
 date: 2018-09-19 11:13:00 +0700
 image: '/assets/img/'
-description: 'หน่อยนะ ... ก็อีกแค่เดือนเดียว - ดูวันที่สิ! จริงๆ'
+description: 'หน่อยนะ ... ก็อีกแค่เดือนเดียว - ดูวันที่สิ! จริง ๆ'
 tags:
 - 2018-09
 categories:
-- W-hy? ไปๆ มาๆ และ ความเปลี่ยนแปลง
+- W-hy? ไป ๆ มา ๆ และ ความเปลี่ยนแปลง
 twitter_text: 'Put your twitter description here.'
 ---
 เพราะคิดว่าความฝันมักอยู่ตรงนั้น
